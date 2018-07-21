@@ -5,6 +5,8 @@
     <link>https://bigleafio.github.io/tags/og/</link>
     <description>Recent content in Opengraph on Bigleaf Labs</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
     
 	<atom:link href="https://bigleafio.github.io/tags/og/index.xml" rel="self" type="application/rss+xml" />
     

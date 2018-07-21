@@ -1,45 +1,4 @@
-.site-title,
 h1 {
     font-size: 2em;
     color: rgb(58, 71, 0)
-}
-.desc {
-    font-style: italic;
-    color: rgb(33, 40, 0)
-}
-
-.menu a{
-    color: rgb(33, 40, 0)
-}
-
-.footer .sep-before:before {
-    border-bottom-color: rgb(49, 0, 47);
-}
-
-.header .sep-after:after {
-    border-bottom-color: rgb(49, 0, 47);
-}
-
-.sep-after:after,
-.sep-before:before {
-    content: "";
-    display: block;
-    width: 4em;
-    margin-top: 2.5em;
-    margin-bottom: 2.5em;
-    border-bottom: .125em solid rgb(91, 108, 16)
-}
-
-:root {
-    --color-accent: rgb(49, 0, 47);
-}
-html {
-    line-height: 1.15;
-    -webkit-text-size-adjust: 100%;
-}
-*, :after, :before {
-    box-sizing: inherit;
-}
-.sidebar .widget-about.sep-after:after {
-    border-bottom-color: rgb(49, 0, 47);
 }

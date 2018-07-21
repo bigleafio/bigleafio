@@ -5,6 +5,8 @@
     <link>https://bigleafio.github.io/categories/data-visualisation/</link>
     <description>Recent content in Data Visualisation on Bigleaf Labs</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Fri, 20 Jul 2018 01:00:00 +0600</lastBuildDate>
     
 	<atom:link href="https://bigleafio.github.io/categories/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
@@ -12,12 +14,12 @@
     
     <item>
       <title>Data Visualization Tips</title>
-      <link>https://bigleafio.github.io/posts/data-viz-charts/</link>
+      <link>https://bigleafio.github.io/post/data-viz-charts/</link>
       <pubDate>Fri, 20 Jul 2018 01:00:00 +0600</pubDate>
-      
-      <guid>https://bigleafio.github.io/posts/data-viz-charts/</guid>
-      <description>Data Visualization Tips There&amp;rsquo;s nothing worse than a bad graph. If you are looking for some great tips on creating data visualizations that both make sense and help get the point across then you can grab some wall posters over at The Data Literacy Project.
-🎉 Grab them at [TheDataLiteracyProject].(https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/)</description>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://bigleafio.github.io/post/data-viz-charts/</guid>
+      <description>Data Visualization Tips There&amp;rsquo;s nothing worse than a bad graph. The folks over at TheDataLiteracyProject have provided some get tools to help you avoid many common mistakes when creating data visualizations.
+If you are looking for some great tips on creating data visualizations that both make sense and help get the point across then you can grab the tools.</description>
     </item>
     
   </channel>

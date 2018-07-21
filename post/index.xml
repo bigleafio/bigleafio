@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Bigleaf Labs</title>
+    <link>https://bigleafio.github.io/post/</link>
+    <description>Recent content in Posts on Bigleaf Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
+    <lastBuildDate>Fri, 20 Jul 2018 01:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="https://bigleafio.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Visualization Tips</title>
+      <link>https://bigleafio.github.io/post/data-viz-charts/</link>
+      <pubDate>Fri, 20 Jul 2018 01:00:00 +0600</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://bigleafio.github.io/post/data-viz-charts/</guid>
+      <description>Data Visualization Tips There&amp;rsquo;s nothing worse than a bad graph. The folks over at TheDataLiteracyProject have provided some get tools to help you avoid many common mistakes when creating data visualizations.
+If you are looking for some great tips on creating data visualizations that both make sense and help get the point across then you can grab the tools.</description>
+    </item>
+    
+    <item>
+      <title>Disclaimer</title>
+      <link>https://bigleafio.github.io/post/my-first-post/</link>
+      <pubDate>Thu, 19 Jul 2018 09:17:26 -0500</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://bigleafio.github.io/post/my-first-post/</guid>
+      <description>This is a personal weblog. The opinions expressed here represent my own and not those of my employer.
+This blog disclaimer is subject to change at anytime without notifications.</description>
+    </item>
+    
+  </channel>
+</rss>

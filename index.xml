@@ -5,6 +5,8 @@
     <link>https://bigleafio.github.io/</link>
     <description>Recent content on Bigleaf Labs</description>
     <generator>Hugo -- gohugo.io</generator>
+    <managingEditor>youremail@domain.com (Some Person)</managingEditor>
+    <webMaster>youremail@domain.com (Some Person)</webMaster>
     <lastBuildDate>Fri, 20 Jul 2018 01:00:00 +0600</lastBuildDate>
     
 	<atom:link href="https://bigleafio.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -12,39 +14,33 @@
     
     <item>
       <title>Data Visualization Tips</title>
-      <link>https://bigleafio.github.io/posts/data-viz-charts/</link>
+      <link>https://bigleafio.github.io/post/data-viz-charts/</link>
       <pubDate>Fri, 20 Jul 2018 01:00:00 +0600</pubDate>
-      
-      <guid>https://bigleafio.github.io/posts/data-viz-charts/</guid>
-      <description>Data Visualization Tips There&amp;rsquo;s nothing worse than a bad graph. If you are looking for some great tips on creating data visualizations that both make sense and help get the point across then you can grab some wall posters over at The Data Literacy Project.
-🎉 Grab them at [TheDataLiteracyProject].(https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/)</description>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://bigleafio.github.io/post/data-viz-charts/</guid>
+      <description>Data Visualization Tips There&amp;rsquo;s nothing worse than a bad graph. The folks over at TheDataLiteracyProject have provided some get tools to help you avoid many common mistakes when creating data visualizations.
+If you are looking for some great tips on creating data visualizations that both make sense and help get the point across then you can grab the tools.</description>
     </item>
     
     <item>
-      <title>About</title>
-      <link>https://bigleafio.github.io/about/</link>
+      <title>Disclaimer</title>
+      <link>https://bigleafio.github.io/post/my-first-post/</link>
+      <pubDate>Thu, 19 Jul 2018 09:17:26 -0500</pubDate>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://bigleafio.github.io/post/my-first-post/</guid>
+      <description>This is a personal weblog. The opinions expressed here represent my own and not those of my employer.
+This blog disclaimer is subject to change at anytime without notifications.</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://bigleafio.github.io/page/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bigleafio.github.io/about/</guid>
-      <description>Bigleaf.io is the web home of Jason Graham. This is simply a place for me to jot down ideas and thing I am learning along the way. Hope it serves you well.</description>
-    </item>
-    
-    <item>
-      <title>My First Post</title>
-      <link>https://bigleafio.github.io/posts/my-first-post/</link>
-      <pubDate>Sat, 21 Jul 2018 09:17:26 -0500</pubDate>
-      
-      <guid>https://bigleafio.github.io/posts/my-first-post/</guid>
-      <description>This is a test</description>
-    </item>
-    
-    <item>
-      <title>Search</title>
-      <link>https://bigleafio.github.io/search/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://bigleafio.github.io/search/</guid>
-      <description></description>
+      <author>youremail@domain.com (Some Person)</author>
+      <guid>https://bigleafio.github.io/page/about/</guid>
+      <description>My name is Inigo Montoya. I have the following qualities:
+ I rock a great mustache I&amp;rsquo;m extremely loyal to my family  What else do you need?
+my history To be honest, I&amp;rsquo;m having some trouble remembering right now, so why don&amp;rsquo;t you just watch my movie and it will answer all your questions.</description>
     </item>
     
   </channel>
