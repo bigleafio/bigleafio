@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jasongraham on Bigleaf Labs</title>
+    <link>https://bigleafio.github.io/authors/jasongraham/</link>
+    <description>Recent content in Jasongraham on Bigleaf Labs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 20 Jul 2018 01:00:00 +0600</lastBuildDate>
+    
+	<atom:link href="https://bigleafio.github.io/authors/jasongraham/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Visualization Tips</title>
+      <link>https://bigleafio.github.io/posts/data-viz-charts/</link>
+      <pubDate>Fri, 20 Jul 2018 01:00:00 +0600</pubDate>
+      
+      <guid>https://bigleafio.github.io/posts/data-viz-charts/</guid>
+      <description>Data Visualization Tips There&amp;rsquo;s nothing worse than a bad graph. If you are looking for some great tips on creating data visualizations that both make sense and help get the point across then you can grab some wall posters over at The Data Literacy Project.
+🎉 Grab them at [TheDataLiteracyProject].(https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/)</description>
+    </item>
+    
+  </channel>
+</rss>

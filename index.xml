@@ -5,9 +5,47 @@
     <link>https://bigleafio.github.io/</link>
     <description>Recent content on Bigleaf Labs</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 20 Jul 2018 01:00:00 +0600</lastBuildDate>
     
 	<atom:link href="https://bigleafio.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Data Visualization Tips</title>
+      <link>https://bigleafio.github.io/posts/data-viz-charts/</link>
+      <pubDate>Fri, 20 Jul 2018 01:00:00 +0600</pubDate>
+      
+      <guid>https://bigleafio.github.io/posts/data-viz-charts/</guid>
+      <description>Data Visualization Tips There&amp;rsquo;s nothing worse than a bad graph. If you are looking for some great tips on creating data visualizations that both make sense and help get the point across then you can grab some wall posters over at The Data Literacy Project.
+🎉 Grab them at [TheDataLiteracyProject].(https://www.geckoboard.com/learn/data-literacy/data-visualization-tips/)</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://bigleafio.github.io/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigleafio.github.io/about/</guid>
+      <description>Bigleaf.io is the web home of Jason Graham. This is simply a place for me to jot down ideas and thing I am learning along the way. Hope it serves you well.</description>
+    </item>
+    
+    <item>
+      <title>My First Post</title>
+      <link>https://bigleafio.github.io/posts/my-first-post/</link>
+      <pubDate>Sat, 21 Jul 2018 09:17:26 -0500</pubDate>
+      
+      <guid>https://bigleafio.github.io/posts/my-first-post/</guid>
+      <description>This is a test</description>
+    </item>
+    
+    <item>
+      <title>Search</title>
+      <link>https://bigleafio.github.io/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://bigleafio.github.io/search/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>

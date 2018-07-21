@@ -3,12 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bigleafio.github.io/posts/data-viz-charts/</loc>
+    <lastmod>2018-07-20T01:00:00+06:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/docs/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/posts/my-first-post/</loc>
+    <lastmod>2018-07-21T09:17:26-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bigleafio.github.io/authors/</loc>
-    <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bigleafio.github.io/</loc>
+    <lastmod>2018-07-20T01:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -18,12 +36,66 @@
   </url>
   
   <url>
+    <loc>https://bigleafio.github.io/tags/charts/</loc>
+    <lastmod>2018-07-20T01:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/tags/config/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/categories/data-visualisation/</loc>
+    <lastmod>2018-07-20T01:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/tags/dataviz/</loc>
+    <lastmod>2018-07-20T01:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/tags/graphs/</loc>
+    <lastmod>2018-07-20T01:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/authors/jasongraham/</loc>
+    <lastmod>2018-07-20T01:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/tags/og/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/posts/</loc>
+    <lastmod>2018-07-20T01:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://bigleafio.github.io/search/</loc>
+  </url>
+  
+  <url>
     <loc>https://bigleafio.github.io/series/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://bigleafio.github.io/tags/</loc>
+    <lastmod>2018-07-20T01:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
